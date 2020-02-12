@@ -1,7 +1,5 @@
 ## Portfolio
 
----
-
 ### Work Projects
 
 - Credit Risk modelling for making lending decisions in a fast growing japanese finance startup! 
@@ -24,19 +22,25 @@ We implement a simple game from scratch and implement minmax/MC tree search and 
 
 ---
 [Chengine](https://github.com/hsperr/Chengine)
+
 While in Univeristy a friend challenged me to write a chess engine in C. So here it is, while the code is not the cleanest its a fully functioning chess engine that will beat the average chess player.
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [BetterDateTime](https://github.com/hsperr/BetterDateTime)
+
 A wrapper around python datetime to have convenience methods similar to javas Joda time. For what I needed it, it works but I would not recommend using it. I should have wrapped this around pyarrow or in general just not touch datetime libraries. I know it has some bugs depending on your usecase.
 
 ---
 [Japanese Meanings](https://github.com/hsperr/japanese_meanings)
+
 A simple Anki plugin which will insert the english meanings and katakana spelling for kanji inserted into Anki. This makes it a lot easier to insert many words at once.
 
 
 ---
+[Kaggle Kernel](https://www.kaggle.com/hsperr/finding-ensamble-weights)
+
+I don't kaggle much, but one competition I entered and participated in the community I contributed a kernel that helped many people ensembling models and netted me being featured on the kaggle blog.
 
 
 ---
