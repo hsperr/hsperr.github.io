@@ -16,6 +16,7 @@ A series on how to implement deep reinforcement learning on non openAI gym examp
 
 ---
 [StackIt](https://github.com/hsperr/StackIt)
+<img src="images/stackit.gif?raw=true"/>
 
 We implement a simple game from scratch and implement minmax/MC tree search and eventually want to implement AlphaGo style algorithm to play the game.
 <!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
