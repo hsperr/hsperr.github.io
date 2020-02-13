@@ -6,11 +6,14 @@
 [<img src="http://spark.apache.org/images/spark-logo-trademark.png" height="75">](https://spark.apache.org)
 [<img src="https://www.python.org/static/img/python-logo@2x.png" height="75">](https://python.org)
 [<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png" height="75">](https://scala-lang.org)
-[<img src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/images/scikit-learn-logo-notext.png" height="75">](https://scikit-learn.org/)
-[<img src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas.svg" height="75">](https://pandas.pydata.org/)
+[<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-notext.png" height="75">](https://scikit-learn.org/)
+[<img src="https://pandas.pydata.org/static/img/pandas.svg" height="75">](https://pandas.pydata.org/)
 [<img src="https://numpy.org/_static/numpy_logo.png" height="75">](https://numpy.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="75">](https://aws.amazon.com/de/?nc2=h_lg)
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="75">](https://www.postgresql.org/)
 [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" height="75">](https://www.docker.com/)
+
+
 
 ### Work Projects
 
