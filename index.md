@@ -8,7 +8,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png" height="75">](https://scala-lang.org)
 [<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-notext.png" height="75">](https://scikit-learn.org/)
 [<img src="https://pandas.pydata.org/static/img/pandas.svg" height="75">](https://pandas.pydata.org/)
-[<img src="https://numpy.org/_static/numpy_logo.png" height="75">](https://numpy.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="75">](https://numpy.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="75">](https://aws.amazon.com/de/?nc2=h_lg)
 [<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="75">](https://www.postgresql.org/)
 [<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" height="75">](https://www.docker.com/)
