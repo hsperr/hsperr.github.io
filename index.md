@@ -16,12 +16,33 @@
 
 
 ### Work Projects
+---
 
-- Credit Risk modelling for making lending decisions in a fast growing japanese finance startup! 
-- Unsupervised clustering of item inventory to do targeting and advertisement accross millions of items.
-- A voice synthesizer to translate whispered speech to normal voice. (Unfortunately proprietary)
-- A machine translation system using restricted boltzmann machines right before the deep learning boom came up! [Diploma/Master Thesis](http://isl.anthropomatik.kit.edu/cmu-kit/english/5222.php)
-- A visual knowledge management tool called [iMapping](www.imapping.info)
+#### Senior Research Engineer at Zalando (~15.000 employees), Berlin, Germany                                     Since Jun 2018
+Fraud detection and prevention                                                                                      
+* Technical lead of a team of 7 people; align and structure team's analysis and documentation process to increase team's reproducibility and efficiency.
+* Planned, developed and implemented a novel fraud detection system replacing the previous manual screening at a higher precision and recall.
+* Defined and owned Objective Key Results which had a major impact on company direction in terms of machine learning.
+Setup of a new reporting structure to product management and C-Level Executives.
+
+#### Data Scientist/Head of Data at PAIDY (~20 employees), Tokyo, Japan                                                     Aug 2015 - Mar 2018
+Online payment credit scoring and fraud prevention                                                    
+* Founding member and initial lead of the Risk team. Responsible for credit underwriting and fraud prevention models. Main achievements:
+* Reduced credit default by 66% saving the company millions of dollars.
+* Reduced response time to emerging risk trends to hours, down from multiple days/weeks.
+* Designed, deployed and maintained a credit risk monitoring system that reduced the response time to emerging risk trends from multiple days/weeks to hours.
+* Responsible for full stack, from planning, selecting features, to building and deploying models, credit policies and risk related processes. 
+
+#### Data Scientist at Rakuten (~10.000 employees), Tokyo, Japan                                                                      Oct 2013 - Aug 2015
+Product Targeting and Recommendation
+* Won Rakuten award for significantly improving advertisement revenue
+* Employed unsupervised machine learning algorithms to cluster similar items and perform ad-keyword selection, and implemented system to allow safe data access by other company sections.
+
+#### Research Assistant at Karlsruhe Institute of Technology, Germany                                               Aug 2011 - Jun 2013
+Working in Cognitive Sciences and Semantic Knowledge Management
+* Developed the semantic knowledge management  tool [iMapping](www.imapping.info) (commercially available)
+* Worked on Japanese-English machine translation system and various speech recognition tasks.
+
 
 ### Projects
 
@@ -30,12 +51,15 @@
 
 A series on how to implement deep reinforcement learning on non openAI gym examples. We have to write everything from scratch and come up with our own rewards and state representations.
 
+[Youtube Series](https://www.youtube.com/watch?v=eNTFKYT5hEk&list=PLzCNQAa0rQnrs-RftLV4eHRq41aSW30Uk)
+
 ---
 [StackIt](https://github.com/hsperr/StackIt)
 <img src="images/stackit.gif?raw=true"/>
 
 We implement a simple game from scratch and implement minmax/MC tree search and eventually want to implement AlphaGo style algorithm to play the game.
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+
+[Youtube Series](https://www.youtube.com/watch?v=BFsIfhugmP8&list=PLzCNQAa0rQno2uFfAXeV5b3KqZnwePYU9)
 
 ---
 [Chengine](https://github.com/hsperr/Chengine)
